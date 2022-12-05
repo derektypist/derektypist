@@ -1,7 +1,6 @@
-I have a diploma in Software Development with Code Institute (Second Class Honours).  I have worked on Projects with FreeCodeCamp, such as
-Tribute Page, Technical Documentation Page.  
 
-My aim is to get a job in Web Development.
+I have a diploma in Software Development with Code Institute (Second Class Honours).  I have worked on FreeCodeCamp Projects, such as
+Tribute Page, Technical Documentation Page.  
 
 I am currently doing coding challenges, e.g. Project Euler, Rosetta Code.
 
@@ -11,7 +10,7 @@ HTML, CSS, JavaScript, Python
 
 Technologies I can use:
 
-Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, Python Flask, Django, PDF
+Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, MongoDB, Mongoose, Pug, Python Flask, Django, PDF
 
 Media Platforms
 
