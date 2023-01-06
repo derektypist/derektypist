@@ -10,12 +10,13 @@ HTML, CSS, JavaScript, Python
 
 Technologies I can use:
 
-Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, MongoDB, Mongoose, Pug, Python Flask, Django, PDF
+Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, MongoDB, Mongoose, Pug, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint
 
 Media Platforms
 
 - [LinkedIn](https://www.linkedin.com/in/derekdhammaloka)
 - [FreeCodeCamp](https://www.freecodecamp.org/fcc12d037b9-dabe-4f48-8d36-5b872fa05c24)
+- [Codecademy](https://www.codecademy.com/profiles/web7171240187)
 
 <!---
 derektypist/derektypist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
