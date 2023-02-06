@@ -1,12 +1,14 @@
 
-I have a diploma in Software Development with Code Institute (Second Class Honours).  I have worked on FreeCodeCamp Projects, such as
+I am doing an Apprenticeship as a Web Developer with IT Career Switch.
+
+I have a diploma in Software Development with Code Institute (Second Class Honours).  I have worked on Code Institute and FreeCodeCamp Projects, such as
 Tribute Page, Technical Documentation Page.  
 
-I am currently doing coding challenges, e.g. Project Euler, Rosetta Code.
+I did Rosetta Code (e.g. Leap Year, Happy Numbers) and Project Euler (e.g. Coin Sums).
 
 Languages I can use:
 
-HTML, CSS, JavaScript, Python
+HTML5, CSS3, JavaScript, Python
 
 Technologies I can use:
 
