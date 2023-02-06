@@ -17,6 +17,7 @@ Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, MongoDB, Mongo
 Media Platforms
 
 - [LinkedIn](https://www.linkedin.com/in/derekdhammaloka)
+- [Facebook](https://www.facebook.com/derek.dhammaloka)
 - [FreeCodeCamp](https://www.freecodecamp.org/fcc12d037b9-dabe-4f48-8d36-5b872fa05c24)
 - [Codecademy](https://www.codecademy.com/profiles/web7171240187)
 
