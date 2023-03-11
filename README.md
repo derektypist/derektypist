@@ -12,7 +12,7 @@ HTML5, CSS3, JavaScript, Python
 
 Technologies I can use:
 
-Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, MongoDB, Mongoose, Pug, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint
+Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, React, MongoDB, Mongoose, Pug, node.js, SQL, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint
 
 Media Platforms
 
