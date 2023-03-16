@@ -8,11 +8,11 @@ I did Rosetta Code (e.g. Leap Year, Happy Numbers) and Project Euler (e.g. Coin 
 
 Languages I can use:
 
-HTML5, CSS3, JavaScript, Python
+HTML5, CSS3, JavaScript, Python, PHP
 
 Technologies I can use:
 
-Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, React, MongoDB, Mongoose, Pug, node.js, SQL, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint
+Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, React, Express, MongoDB, Mongoose, Pug, node.js, SQL, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint
 
 Media Platforms
 
