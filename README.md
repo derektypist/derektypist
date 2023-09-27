@@ -12,7 +12,7 @@ HTML5, CSS3, JavaScript, Python, PHP
 
 Technologies I can use:
 
-Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, React, Express, MongoDB, Mongoose, Pug, node.js, SQL, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint
+Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, React, Express, MongoDB, Mongoose, Pug, node.js, SQL, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint, LeafletJS including EasyButton.
 
 Media Platforms
 
@@ -20,6 +20,7 @@ Media Platforms
 - [Facebook](https://www.facebook.com/derek.dhammaloka)
 - [FreeCodeCamp](https://www.freecodecamp.org/fcc12d037b9-dabe-4f48-8d36-5b872fa05c24)
 - [Codecademy](https://www.codecademy.com/profiles/web7171240187)
+- [CodePen](https://codepen.io/derektypist)
 
 <!---
 derektypist/derektypist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
