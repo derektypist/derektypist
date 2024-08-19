@@ -1,5 +1,9 @@
 
+
+
 I am doing an Apprenticeship as a Web Developer with IT Career Switch.
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=derektypist&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 I have a diploma in Software Development with Code Institute (Second Class Honours).  I have worked on Code Institute and FreeCodeCamp Projects, such as
 Tribute Page, Technical Documentation Page.  
