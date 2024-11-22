@@ -25,6 +25,7 @@ Media Platforms
 - [FreeCodeCamp](https://www.freecodecamp.org/fcc12d037b9-dabe-4f48-8d36-5b872fa05c24)
 - [Codecademy](https://www.codecademy.com/profiles/web7171240187)
 - [CodePen](https://codepen.io/derektypist)
+- [CodeSignal](https://learn.codesignal.com/profile/cm34eics00015v79eftr7cvuy)
 
 <!---
 derektypist/derektypist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
