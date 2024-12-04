@@ -6,7 +6,10 @@ I am doing an Apprenticeship as a Web Developer with IT Career Switch.
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=derektypist&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 I have a diploma in Software Development with Code Institute (Second Class Honours).  I have worked on Code Institute and FreeCodeCamp Projects, such as
-Tribute Page, Technical Documentation Page.  
+
+- [Tribute Page](https://derektypist.github.io/tribute-page)
+- [Technical Documentation Page](https://derektypist.github.io/technical-documentation-page)
+- [Wikipedia Viewer](https://derektypist.github.io/wikipedia-viewer) 
 
 I did Rosetta Code (e.g. Leap Year, Happy Numbers) and Project Euler (e.g. Coin Sums).
 
@@ -16,7 +19,7 @@ HTML5, CSS3, JavaScript, Python, PHP
 
 Technologies I can use:
 
-Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, React, Express, MongoDB, Mongoose, Pug, node.js, SQL, Python Flask, Django, PDF, Microsoft Excel, Microsoft PowerPoint, LeafletJS including EasyButton.
+Bootstrap, jQuery, d3, Font Awesome, Google Fonts, Emoji Awesome, React, Windows, Linux, VirtualBox, Express, MongoDB, Mongoose, Pug, node.js, SQL, Python Flask, Django, PDF, Microsoft Word, Microsoft Access, Microsoft Excel, Microsoft PowerPoint, LeafletJS including EasyButton.
 
 Media Platforms
 
