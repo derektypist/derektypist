@@ -29,6 +29,7 @@ Media Platforms
 - [Codecademy](https://www.codecademy.com/profiles/web7171240187)
 - [CodePen](https://codepen.io/derektypist)
 - [CodeSignal](https://learn.codesignal.com/profile/cm34eics00015v79eftr7cvuy)
+- [Pinterest - Computer Screenshots](https://uk.pinterest.com/derekthesec/computer-screenshots)
 
 <!---
 derektypist/derektypist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
